@@ -1,0 +1,144 @@
+Name: Addison Animal Hospital
+Address: 951 W Lake St  Addison IL  60101
+Phone number: (630) 543-9500
+
+Name: Aledo Veterinary Clinic
+Address: 1903 Se 3rd St  Aledo IL  61231
+Phone number: (309) 582-2622
+
+Name: All Paws Veterinary Clinic
+Address: 1324 Ryan Pkwy  Algonquin IL  60102
+Phone number: (847) 854-1526
+
+Name: Animal Clinic of Alsip
+Address: 12035 S Pulaski Rd  Alsip IL  60803
+Phone number: (708) 385-6930
+
+Name: Formea Animal Hospital
+Address: 1639 Main St  Alton IL  62002
+Phone number: (618) 462-8000
+
+Name: Meller James And Associates Veterinary Service
+Address: 2695 E Vienna St  Anna IL  62906
+Phone number: (618) 833-7421
+
+Name: Antioch Animal Hospital
+Address: 40949 N Il State Rt 83  Antioch IL  60002
+Phone number: (847) 395-0636
+
+Name: Animal Health Care Center Arcola
+Address: 531 E Springfield Rd  Arcola IL  61910
+Phone number: (217) 268-4747
+
+Name: Ashton Animal Clinic
+Address: 705 Main St  Ashton IL  61006
+Phone number: (815) 453-2171
+
+Name: Assumption Veterinary Clinic
+Address: 221 N Business 51  Assumption IL  62510
+Phone number: (217) 226-3733
+
+Name: Main Street Animal Clinic
+Address: 105 N Main St  Athens IL  62613
+Phone number: (217) 636-7388
+
+Name: Miller Veterinary Services
+Address: 17295 E 2100th St  Atkinson IL  61235
+Phone number: (309) 936-7622
+
+Name: Auburn Veterinary Service
+Address: 16285 Briarwood Trace  Auburn IL  62615
+Phone number: (217) 438-6000
+
+Name: Eola Point Animal Hospital
+Address: 1242 N Eola Rd  Aurora IL  60502
+Phone number: (630) 236-8730
+
+Name: Barrington Animal Hospital
+Address: 216 S Northwest Hwy  Barrington IL  60010
+Phone number: (847) 381-4100
+
+Name: Country View Veterinary Service
+Address: 745 Bainbridge St  Barry IL  62312
+Phone number: (217) 335-2717
+
+Name: Army Trail Animal Hospital
+Address: 1095 W Army Trail Rd  Bartlett IL  60103
+Phone number: (630) 608-2713
+
+Name: Limestone Companion Animal Hospital
+Address: 4224 S Airport Rd  Bartonville IL  61607
+Phone number: (309) 697-8000
+
+Name: Batavia Animal Clinic
+Address: 139 First St  Batavia IL  60510
+Phone number: (630) 879-8005
+
+Name: Beecher Veterinary Clinic
+Address: 700 Dixie Hwy  Beecher IL  60401
+Phone number: (708) 946-3131
+
+Name: Belleville Animal Clinic
+Address: 1600 N Belt E  Belleville IL  62221
+Phone number: (618) 233-5720
+
+Name: Belvidere Family Pet Hospital
+Address: 2090 Pearl St  Belvidere IL  61008
+Phone number: (815) 544-9930
+
+Name: Bensenville Animal Hospital
+Address: 1208 Irving Park Rd  Bensenville IL  60106
+Phone number: (630) 766-0620
+
+Name: VCA Berwyn Animal Hospital
+Address: 2845 S Harlem Ave  Berwyn IL  60402
+Phone number: (708) 482-3226
+
+Name: Bethalto Animal Clinic
+Address: 132 W Blvd  Bethalto IL  62010
+Phone number: (618) 377-2139
+
+Name: Bloomingdale Animal Hospital
+Address: 290 Glen Ellyn Rd  Bloomingdale IL  60108
+Phone number: (630) 893-4330
+
+Name: Ambassador Animal Hospital
+Address: 510 Guido Cir  Bloomington IL  61701
+Phone number: (309) 662-8535
+
+Name: AAmerican Veterinary Hospital
+Address: 550 I 55 Frontage  Bolingbrook IL  60440
+Phone number: (630) 972-0067
+
+Name: Bradley Animal Hospital
+Address: 130 S Kinzie Ave  Bradley IL  60915
+Phone number: (815) 932-5011
+
+Name: Veterinary Services
+Address: 8500 Old Us Highway 50  Breese IL  62230
+Phone number: (618) 526-7851
+
+Name: Four Counties Mobile Vet Services
+Address: 205 Lincoln St  Broadlands IL  61816
+Phone number: (217) 834-3472
+
+Name: Broadview Animal Hospital
+Address: 2128 S 17th Ave  Broadview IL  60155
+Phone number: (708) 344-1909
+
+Name: Merrick Animal Hospital
+Address: 9115 Ogden Ave  Brookfield IL  60513
+Phone number: (708) 485-6500
+
+Name: Canton Veterinary Clinic
+Address: 534 E Oak St  Canton IL  61520
+Phone number: (309) 647-2221
+
+Name: Central Hospital For Animals
+Address: 695 N Giant City Rd 3  Carbondale IL  62902
+Phone number: (618) 549-4738
+
+Name: Carlyle Animal Hospital
+Address: 1211 Ridge St  Carlyle IL  62231
+Phone number: (618) 594- 4515
+
